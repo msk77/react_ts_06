@@ -34,7 +34,7 @@ Every Wednesday, in the end of the main lecture, a few take-home tasks are offer
 ## 🤓How to do it right?
 Attend the lectures and complete your homework on time. Besides lectures, you are expected to spend time reading official documentations, googling, learn to ask proper questions, and sourcing helpful information on your own. 50% of success is in your dedication to the course material. The other 50% come from practice. This means, you should go along with course to get a timely feedback in order to really learn. It is not recommended to skip parts with false hopes to learn it 'later'. You can only get a working knowledge of React/TS, if you follow the rules of our community and are genuinely invested in the process.
 
-## Bare minimum to succeed in React/TS course
+## :warning:Bare minimum to succeed in React/TS course:warning:
 1. JavaScript
 2. HTML & CSS
 3. Git Version Control
