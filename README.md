@@ -33,7 +33,17 @@ Contact:
 Every Wednesday, in the end of the main lecture, a few take-home tasks are offered to practice the lecture material
 
 ## 🤓How to do it right?
-You are expected to spend time reading official documentations, googling, sourcing helpful information on your own. 50% of success is in your dedication to the course material. The other 50% come from practice. This means, you should go along with course lectures and hand-in homework on-time to get a timely feedback. It is not recommended to skip parts with false hopes to learn it 'later'. You can only get the maximum if you follow the rules of our community, React-TypesScript course and from teacher's recommendations.
+Attend the lectures and complete your homework on time. Besides lectures, you are expected to spend time reading official documentations, googling, learn to ask proper questions, and sourcing helpful information on your own. 50% of success is in your dedication to the course material. The other 50% come from practice. This means, you should go along with course to get a timely feedback in order to really learn. It is not recommended to skip parts with false hopes to learn it 'later'. You can only get a working knowledge of React/TS, if you follow the rules of our community and are genuinely invested in the process.
+
+##Bare minimum to succeed in React/TS course
+1. 1. JavaScript
+2. HTML & CSS
+3. Git Version Control
+4. Package Managers (npm, yarn or pnpm) - npm is used in this course
+5. Basic understanding of linters and formatters
+6. Basic knowledge of npm scripts
+7. Understanding of Vite, esbuild, Webpack, Rollup, Parcel
+
 
 ## 📈FAQ
 + Do I need JavaScript to learn React?
