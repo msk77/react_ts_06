@@ -4,7 +4,7 @@
 ###### This is a free React with TypeScript course that is intended for future (or present) front-end developers, to advance the skills. When enrolling in this course, students will be expected to know [certain things](https://github.com/RedRoverSchool/react_ts_06/blob/main/README.md#warningbare-minimum-to-succeed-in-reactts-coursewarning) beforehand. Please, do not expect from this course any basic training (i.e. How to use GitHub). A pace has been set to learn and the course has a limited time for completion. After completing the course, all students are offered to take part in the final project that could lead all the motivated participants to an employment. There are no mandatory classes or homeworks, everything just depends on the degree of your motivation and your end goals.
 
 ## About the course
-React is a JS library that allows us - frontend developers - to develop efficiently. TypeScript is a JS superstructure that gives you better tooling at any scale. The goal is to start building single page applications with ReactJS and TypeScript.
+React is a JS library that allows us - frontend developers - to develop efficiently. TypeScript is a JS superstructure that gives you better tooling at any scale. This course's goal is to give you the understanding of React.js library, to allow you to start building single page applications and utilise TypeScript on top of JavaScript. By the end of this course, you should be able to create basic React.js web apps, style them and test them.
 
 ## 💻Your Teacher
 Francesca
