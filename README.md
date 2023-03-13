@@ -49,8 +49,7 @@ Attend the lectures and complete your homework on time. Besides lectures, you ar
 
 ## 📈FAQ
 + **Do I need JavaScript to learn React?**
-
-  :point_right: Yes, you are expected to have a working knowledge of JS to be able to understand React concepts and not stall your learning curve.
+    + :point_right: Yes, you are expected to have a working knowledge of JS to be able to understand React concepts and not stall your learning curve.
   
 + **Do I need JavaScript to learn TypeScript?**
 
