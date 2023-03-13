@@ -52,12 +52,10 @@ Attend the lectures and complete your homework on time. Besides lectures, you ar
     + :point_right: Yes, you are expected to have a working knowledge of JS to be able to understand React concepts and not stall your learning curve.
   
 + **Do I need JavaScript to learn TypeScript?**
-
-  :point_right: TypeScript builds on top of JavaScript, so not knowing JavaScript prior to learning TypeScript will probably confuse you.
+    + :point_right: TypeScript builds on top of JavaScript, so not knowing JavaScript prior to learning TypeScript will probably confuse you.
   
 + **Can I land a job after completing this course?**
-
-  :point_right: Many factors can contribute to you landing your first, or a more qualified, frontend position. The material covered in this course can result in employent   as the skills provided here, are practical.
+    + :point_right: Many factors can contribute to you landing your first, or a more qualified, frontend position. The material covered in this course can result in employent   as the skills provided here, are practical.
 
 ## 🔗Links to Helpful Resources
 -[TypeScript Official Docs](https://www.typescriptlang.org/)
