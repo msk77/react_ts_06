@@ -17,8 +17,17 @@ Contact:
   + Telegram:   @j_fruits
 
 ## 📝Syllabus 
-
---SECTION IN PROGRESS--
++ CLI (Vite)
++ Functional Components
++ Components Basics
++ Rendering
++ Hooks
++ Routers
++ State Management
++ Styling
++ Testing (Playwright)
++ Frameworks (Next.js)
++ Forms
 
 ## 📚Sending completed homework for feedback
 Every Wednesday, in the end of the main lecture, a few take-home tasks are offered to practice the lecture material
