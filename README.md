@@ -1,8 +1,7 @@
 # How to learn React-TypeScript Course?
 -------------------
-## Versions/Версии
-- [🇬🇧/🇺🇸](#eng_v)
-- [🇷🇺](#rus_v)
+## Disclaimer
+This is a free React with TypeScript course that is intended for future (or present) front-end developers, to advance the skills. When enrolling to this course, students will be expected to know certain things beforehand. Please, do not expect from this course any basic training (i.e. How to use GitHub). A pace has been set to learn and the course has a limited time for completion. After completing the course, all students are offered to take part in the final project that could lead all the motivated participants to an employment. There are no mandatory classes or homeworks, everything just depends on the degree of your motivation and your end goals.
 -------------------
 ## About the course
 React is a JS library that allows us - frontend developers - to develop efficiently. TypeScript is a JS superstructure that gives you better tooling at any scale. The goal is to start building single page applications with ReactJS and TypeScript.
@@ -30,7 +29,7 @@ Contact:
 + Forms
 
 ## 📚Sending completed homework for feedback
-Every Wednesday, in the end of the main lecture, a few take-home tasks are offered to practice the lecture material. You have to be on the list of students in order to be able to receive homework feedback. Homework is done via GitHub Classroom and there is a deadline set for each week's tasks. If you missed the deadline, but have a good reason 'why', you can get the extenuating circumstances, in other instances, the homework wull not be accepted after the deadline.
+Every Wednesday, in the end of the main lecture, a few take-home tasks are offered to practice the lecture material. You have to be on the list of students in order to be able to receive homework feedback. Homework is done via GitHub Classroom and there is a deadline set for each week's tasks. If you missed the deadline, but have a good reason 'why', you can get the extenuating circumstances, in other instances, the homework will not be accepted after the deadline.
 
 ## 🤓How to do it right?
 Attend the lectures and complete your homework on time. Besides lectures, you are expected to spend time reading official documentations, googling, learn to ask proper questions, and sourcing helpful information on your own. 50% of success is in your dedication to the course material. The other 50% come from practice. This means, you should go along with course to get a timely feedback in order to really learn. It is not recommended to skip parts with false hopes to learn it 'later'. You can only get a working knowledge of React/TS, if you follow the rules of our community and are genuinely invested in the process.
@@ -49,21 +48,15 @@ Attend the lectures and complete your homework on time. Besides lectures, you ar
 + Do I need JavaScript to learn React?
   Yes, you are expected to have a working knowledge of JS to be able to understand React concepts and not stall your learning curve.
   
-+ How to send completed homework to get feedback?
-  In order to get feedback for your completed task, push your code to a repo on your GitHub page and share the link with @Francesca in Slack.
++ Do I need JavaScript to learn TypeScript?
+  TypeScript builds on top of JavaScript, so not knowing JavaScript prior to learning TypeScript will probably confuse you.
   
 + Can I land a job after completing this course?
-  Many factors can contribute to you landing your first or a more qualified frontend position. The matrial covered in this course can result in employent     as the skills provided here, are practical.
+  Many factors can contribute to you landing your first, or a more qualified, frontend position. The material covered in this course can result in employent   as the skills provided here, are practical.
 
-## 🔗Links
+## 🔗Links to Helpful Resources
 -[TypeScript Official Docs](https://www.typescriptlang.org/)
 
 -[React Official Docs](https://reactjs.org/)
 
 Happy Hacking!
-
-
------
-#rus_v
-
---SECTION IN PROGRESS--
