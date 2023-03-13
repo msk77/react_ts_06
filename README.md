@@ -31,6 +31,9 @@ Contact:
 ## 📚Sending completed homework for feedback
 Every Wednesday, in the end of the main lecture, a few take-home tasks are offered to practice the lecture material. You have to be on the list of students in order to be able to receive homework feedback. Homework is done via GitHub Classroom and there is a deadline set for each week's tasks. If you missed the deadline, but have a good reason 'why', you can get the extenuating circumstances, in other instances, the homework will not be accepted after the deadline.
 
+## Sharing code with others
+Never send your code as a plain text in any direct messages. Please, use [GitHub Gist](https://gist.github.com/) - it is a free tool to share your code snippets fast and clean. Make sure to be logged in your github account to use it.
+
 ## 🤓How to do it right?
 Attend the lectures and complete your homework on time. Besides lectures, you are expected to spend time reading official documentations, googling, learn to ask proper questions, and sourcing helpful information on your own. 50% of success is in your dedication to the course material. The other 50% come from practice. This means, you should go along with course to get a timely feedback in order to really learn. It is not recommended to skip parts with false hopes to learn it 'later'. You can only get a working knowledge of React/TS, if you follow the rules of our community and are genuinely invested in the process.
 
